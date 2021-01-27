@@ -28,7 +28,7 @@ j)	Start performing a work on the android studio.<br>
 
 <h3>Experiment_2</h3>
 <h3>Title - Creating a single Activity with a Text Message.</h3>
-<img src="https://user-images.githubusercontent.com/56497549/105951255-bea7e580-6095-11eb-8a7b-661737abf4d8.PNG" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/56497549/105963790-6da0ed00-60a7-11eb-9016-879efc44a557.PNG" width="400" height="500">
 
 <h3>Experiment_3</h3>
 <h3>Title - Demonstration of Activity Life Cycle.</h3>
