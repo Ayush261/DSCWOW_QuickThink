@@ -1,5 +1,5 @@
 # DSCWOW_QuickThink
-<h2> The repository holds innumerable workflow based on the Android Development. The snapshots of the work is arranged sequentially.</h2><br>
+<h2> The repository holds innumerable workflow based on Android Development. The snapshots of the work is arranged sequentially.</h2><br>
 <h3>To install and configure Android application development tool on Windows operating systems</h3><br>
 <a href="https://developer.android.com/studio"> Download a Android Studio.</a> <br>
 
